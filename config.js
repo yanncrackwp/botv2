@@ -125,9 +125,9 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/1ea8e058b844a001f9f42.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/1ea8e058b844a001f9f42.jpg'
-global.thumbbc = 'https://telegra.ph/file/d78c424381891ea5c7dc0.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/6197d51ca38635ac0fbeb.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/95c925329a40523b40dd0.jpg'
+global.thumbbc = 'https://telegra.ph/file/6197d51ca38635ac0fbeb.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
